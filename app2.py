@@ -236,4 +236,4 @@ elif menu == "Search, Edit & Delete":
             st.session_state.records.loc[selected_index, "Reported by"] = (
                 up_reported
             )
-            st.success("အချက်အလက်များကို အောင်မြင်စွာ
+            st.success("အချက်အလက်များကို အောင်မြင်စွာ")
